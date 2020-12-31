@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/briancsparks/sgfs.git"
+    "url": "git+https://github.com/briancsparks/cdr0-sgfs.git"
   },
   "author": "Brian C Sparks <briancsparks@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/briancsparks/sgfs",
+  "homepage": "https://github.com/briancsparks/cdr0-sgfs",
   "dependencies": {
     "@cdr0/polyrepo": "^1.0.3",
     "@cdr0/sg": "^1.0.2",
