@@ -1,0 +1,24 @@
+{
+  "name": "@cdr0/sgfs",
+  "version": "1.0.0",
+  "description": "Objects to manage your file layout.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briancsparks/sgfs.git"
+  },
+  "author": "Brian C Sparks <briancsparks@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/briancsparks/sgfs",
+  "dependencies": {
+    "@cdr0/polyrepo": "^1.0.3",
+    "@cdr0/sg": "^1.0.2",
+    "@cdr0/the": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "^3.13.0"
+  }
+}
