@@ -1,6 +1,6 @@
 {
   "name": "@cdr0/sgfs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Objects to manage your file layout.",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "license": "MIT",
   "homepage": "https://github.com/briancsparks/cdr0-sgfs",
   "dependencies": {
-    "@cdr0/polyrepo": "^1.0.3",
+    "@cdr0/polyrepo": "^1.0.4",
     "@cdr0/sg": "^1.0.2",
     "@cdr0/the": "^1.0.0"
   },
