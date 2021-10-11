@@ -14,11 +14,9 @@
   "license": "MIT",
   "homepage": "https://github.com/briancsparks/cdr0-sgfs",
   "dependencies": {
-    "@cdr0/polyrepo": "^1.0.4",
-    "@cdr0/sg": "^1.0.4",
-    "@cdr0/the": "^1.0.0"
+    "@cdr0/sg": "^1.0.10"
   },
   "devDependencies": {
-    "ava": "^3.13.0"
+    "ava": "^3.15.0"
   }
 }
