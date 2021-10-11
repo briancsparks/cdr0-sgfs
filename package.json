@@ -1,6 +1,6 @@
 {
   "name": "@cdr0/sgfs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Objects to manage your file layout.",
   "main": "index.js",
   "scripts": {
